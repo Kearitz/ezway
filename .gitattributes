@@ -1,0 +1,10 @@
+*     text=auto
+*.css   text eol=lf
+*.js    text eol=lf
+*.php   text eol=lf
+*.html.twig  text eol=lf
+
+ *.css linguist-vendored       
+ *.scss linguist-vendored      
+ *.js linguist-vendored        
+ src/views/* linguist-vendored
