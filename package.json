@@ -1,0 +1,23 @@
+{
+  "name": "alpha",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kearitz <kea.ritz@outlook.fr>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "webpack --watch --progress --config ./build/webpack.config.js ",
+    "build": "webpack --config ./build/webpack.config.js "
+  },
+  "dependencies": {
+    "uikit": "^3.0.0-beta.32"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.7",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "node-sass": "^4.5.3",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.19.0",
+    "webpack": "^3.8.1",
+    "webpack-watch-server": "^1.2.1"
+  }
+}
