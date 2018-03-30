@@ -1,9 +1,6 @@
 # Ezway is another ultra-light framework.
 
-[Work in progress :  
--   use/dev documentation
--   
--   use as light API]
+[Work in progress :  see [Roadmap](docs/ROADMAP.md)]
 
 Ezway is a ultra-light PHP framework. It build to : create light websites or light APIs quickly without learn or use big FrameWork.  
 It's composed of: router, template engine, controller and nothing else. :)   
@@ -34,6 +31,10 @@ php -S localhost:1234 -t public
 Open your browser on URL : localhost:1234.   
 Start dev. :) 
 
+## All you need to know
+
+-   [Configuration](docs/CONFIG.md)
+-   [Routes](docs/ROUTER.md)   
 
 
 
