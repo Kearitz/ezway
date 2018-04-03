@@ -2,6 +2,7 @@
 namespace Ezway\Controllers;
 
 use Ezway\Core\Controller;
+use Ezway\Core\Database;
 use Psr\Http\Message\ServerRequestInterface;
 use Psr\Http\Message\ResponseInterface;
 

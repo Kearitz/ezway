@@ -35,6 +35,7 @@ Start dev. :)
 
 -   [Configuration](docs/CONFIG.md)
 -   [Routes](docs/ROUTER.md)   
+-   [Database](docs/DATABASE.md)   
 
 
 
